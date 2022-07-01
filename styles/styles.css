@@ -6,7 +6,7 @@
     }
 
       p {
-         font-size: 16pt;
+         font-size: 16pt !important;
          text-align: justify;
 
       }
