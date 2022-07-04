@@ -20,5 +20,9 @@
          font-size: 30pt;
       }
       .picture img {
-          width: 67%;
+          width: 30%;
+      }
+
+      .advertising {
+           margin-left: 30pt;
       }
